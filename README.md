@@ -3,6 +3,8 @@
 A real-time speech-to-text prototype built with **Next.js** and **Tailwind CSS**.
 It uses the **Web Speech Api** to capture microphone input and transcribe speech into text instantly - similar to live captions or chat-style interfaces.
 
+- Link [https://speech-to-text-nextjs-pi.vercel.app/]
+
 ## Features
 
 - Start/Stop microphone recording
